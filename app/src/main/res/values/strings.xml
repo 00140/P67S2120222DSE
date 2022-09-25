@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P67S2120222DSE</string>
+    <string name="TESOEM">Tecnologico de estudios superiores del oriente del estado de mexico</string>
+    <string name="titulop1">Menu de opciones</string>
+    <string name="titulosuma">Suma de dos numeros</string>
+    <string name="tituloresta">Resta de dos numeros</string>
+    <string name="titulomulti">Multiplicacion de dos numeros</string>
+    <string name="titulodiv">Division de dos numeros</string>
+    <string name="num1">ingrese un numero</string>
+    <string name="num2">ingrese otro numero</string>
+    <string name="lblcalcular">Calcular</string>
+    <string name="himtnum1">numero 1</string>
+    <string name="himtnum2">numero 2</string>
+    <string name="lblregresa">Regresar al menu</string>
+</resources>
